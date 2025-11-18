@@ -112,10 +112,6 @@ platforms:
     name: "格隆汇"
   - id: "xueqiu"
     name: "雪球"
-  - id: "jin10"
-    name: "金十数据"
-  - id: "fastbull"
-    name: "快讯通"
 
   # === 社交/短视频/娱乐类 ===
   - id: "weibo"
@@ -124,6 +120,8 @@ platforms:
     name: "抖音"
   - id: "bilibili-hot-search"
     name: "bilibili 热搜"
+  - id: "tieba"
+    name: "贴吧"
 
   # === 科技类平台 ===
   - id: "ithome"
