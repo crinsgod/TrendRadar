@@ -3,12 +3,6 @@
 HarmonyOS
 任正非
 
-比亚迪
-王传福
-
-大疆
-DJI
-
 黑神话
 冯骥
 
@@ -30,17 +24,8 @@ DJI
 bytedance
 张一鸣
 
-特斯拉
-马斯克
-
 微软
 Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
 
 谷歌
 google
@@ -50,9 +35,6 @@ deepmind
 chatgpt
 openai
 sora
-
-claude
-Anthropic
 
 iphone
 ipad
@@ -67,15 +49,9 @@ ai
 
 机器人
 
-国产
-中国
-
 美国
 日本
 韩国
-
-芯片
-光刻机
 
 科技
 
